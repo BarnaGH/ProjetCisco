@@ -23,6 +23,6 @@ Cette application devra permettre de se connecter à un switch Cisco mais elle d
 <img src="./src_readme/vlan.png">
 <p align="center">Configuration de VLAN</p>
 <img src="./src_readme/addvlan.png">
-<p align="center">Ajouter un VLAN</p>
+<p align="center">Modifier un VLAN</p>
 <img src="./src_readme/about.png">
 <p align="center">À propos</p>
